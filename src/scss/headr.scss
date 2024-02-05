@@ -1,0 +1,172 @@
+.header{
+position: absolute;
+top: 0px;
+left:0px;
+background-image: url(../img/Hero\ image\ \(1\).png);
+width: 1920px;
+height: 1194px;
+
+.container h2{
+position: absolute;
+top: 75px;
+left: 250px;
+font-family: Playfair Display;
+font-size: 36px;
+font-weight: 700;
+line-height: 68px;
+letter-spacing: 0em;
+text-align: left;
+color: white;
+}
+.logo{
+position: absolute;
+width: 8px;
+height: 5px;
+background-color: #41EAD4;
+border-radius: 50%;
+top: 145px;
+left: 310px;
+
+}
+
+.search{
+position: absolute;
+width: 24px;
+height: 24px;
+top: 110px;
+left: 1434px;
+}
+
+
+.button{
+position: absolute;
+width: 167px;
+height: 62px;
+top: 77px;
+left: 1490px;
+border-radius: 48px;
+background-color: #00C9E0;
+}
+
+.button:hover{
+    transform: translateY(2px);
+    transition: 0.1s;
+    box-shadow: 10px 10px 10px black;
+}
+
+.button a{
+text-decoration: none;
+font-size: 20px;
+color: white;
+}
+
+.btn-img{
+position: absolute;
+top: 110px;
+left: 1640px;
+
+
+}
+
+.text h2{
+position: absolute;
+top: 295px;
+left: 667px;
+font-family: Noe Display;
+font-size: 120px;
+font-weight: 700;
+line-height: 153px;
+letter-spacing: -0.02em;
+text-align: left;
+
+
+}
+
+.text h3{
+position: absolute;
+width: 500px;
+top: 550px;
+left: 720px;
+font-family: Larsseit;
+font-size: 18px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0.1em;
+text-align: left;
+color: white;
+
+}
+
+.text p{
+position: absolute;
+height: 79px;
+top: 600px;
+left: 650px;
+font-family: Larsseit;
+font-size: 17px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: center;
+color: white;
+}
+
+.scroll p{
+position: absolute;
+top: 867px;
+left: 237px;
+opacity: 0.9px;
+font-family: Larsseit;
+font-size: 15px;
+font-weight: 700;
+line-height: 28px;
+letter-spacing: 0.05em;
+text-align: left;
+color: rgb(255, 255, 255);
+transform:rotate(270deg);
+}
+.scroll img{
+position: absolute;
+width: 2px;
+height: 80px;
+top: 940px;
+left: 269px;
+border-radius: 13px;
+
+
+}
+
+.navbar li{
+    display: inline-block;
+
+}
+
+.navbar img{
+    width: 24px;
+    height: 24px;
+        position:relative;
+
+}
+
+.navbar{
+position: absolute;
+width: 24px;
+line-height:50px;
+top: 848px;
+left: 1647px;
+
+}
+
+.container-img{
+position: absolute;
+background-image:url(../img/Gradient\ transition.png);
+z-index: 1;
+width: 1920px;
+height: 377px;
+top: 817px;
+left: 0px;
+
+
+}
+
+}

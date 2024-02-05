@@ -1,0 +1,295 @@
+.hero{
+position: absolute;
+width: 1920px;
+height: 2963px;
+top: 1190px;
+left: 0px;
+background-image: url(../img/_\ BG\ LIGHTS.png);
+background-color: #011627;
+
+.hero-container-h2{
+position: absolute;
+top: 50px;
+left: 400px;
+font-family: Noe Display;
+font-size: 72px;
+font-weight: 700;
+line-height: 79px;
+letter-spacing: -0.02em;
+text-align: center;
+color: white;
+
+
+
+
+}
+
+.hero-container-img{
+position: absolute;
+width: 24px;
+height: 24px;
+top: 150px;
+left: 880px;
+
+
+
+
+}
+
+.hero-container-p{
+position: absolute;
+font-family: Larsseit;
+font-size: 16px;
+font-weight: 400;
+line-height: 25px;
+letter-spacing: -0.02em;
+text-align: left;
+color: white;
+top: 110px;
+left: 1000px;
+
+
+}
+
+
+.hero-navbar li{
+    display: inline-block;
+    margin-right: 200px;
+  
+
+
+}
+    
+    .hero-navbar a{
+    text-decoration: none;
+    color: #ffffff;
+    font-family: Larsseit;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 18px;
+    letter-spacing: -0.02em;
+    text-align: center;
+
+    }
+
+    .hero-navbar a:hover{
+box-shadow: rgba(65, 234, 212, 1)  0px 60px 0px -5px, ;  
+
+}
+    
+    
+    .hero-navbar{
+    position: absolute;
+    top: 250px;
+    left: 450px;
+    
+    }
+
+}
+
+.hero-container_next{
+
+    .img1{
+position: absolute;
+top: 400px;
+left: 400px;
+z-index: 1;    
+}
+.img2{
+position: absolute;
+top: 630px;
+left: 320px;
+z-index: 2;
+}
+
+.img3{
+    position: absolute;
+    top: 837px;
+    left: 350px;
+   
+    }
+
+    .img4{
+        position: absolute;
+        top: 935px;
+left: 726px;
+       z-index: 3;
+        }
+
+        .img5{
+            position: absolute;
+            top: 882px;
+            left: 1230px;
+        z-index: 2;
+        width: 50px;
+height: 3px;
+
+    
+        }
+
+        .img6{
+            position: absolute;
+            top: 970px;
+    left: 1421px;
+           z-index: 3;
+            }
+
+
+.text1{
+position: absolute;
+font-family: Larsseit;
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0.15em;
+text-align: left;
+color: #41EAD4;
+top: 630px;
+left: 320px;
+}
+
+.text2{
+position: absolute;
+color: #ffffff;
+top: 680px;
+left: 320px;
+font-family: Larsseit;
+font-size: 24px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0.15em;
+text-align: left;
+z-index: 2;
+
+
+}
+
+.text3{
+    position: absolute;
+    top: 400px;
+    left: 971px;
+    color: #ffffff;
+    font-family: Noe Display;
+    font-size: 65px;
+    font-weight: 700;
+    line-height: 72px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    
+    
+        }
+    
+    
+    
+    .text4{
+    position: absolute;
+    font-family: Larsseit;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 26px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    top: 570px;
+    left: 971px;
+    color: #ffffff;
+    
+    
+    
+    }
+    
+    .text5{
+        position: absolute;
+        font-family: Larsseit;
+        font-size: 17px;
+        font-weight: 400;
+        line-height: 26px;
+        letter-spacing: -0.02em;
+        text-align: left;
+        top: 650px;
+        left: 971px;
+        color: #ffffff;
+        
+        
+        
+        }
+
+        .text6{
+            position: absolute;
+            font-family: Larsseit;
+            font-size: 15px;
+            font-weight: 700;
+            line-height: 23px;
+            letter-spacing: 0.15em;
+            text-align: left;            
+            top: 900px;
+            left: 1421px;
+            color: #ffffff;
+            
+            
+            
+            }
+
+
+.hero-container_next-btn{
+position: absolute;
+width: 282px;
+height: 65px;
+top: 850px;
+left: 973px;
+border-radius: 183px;
+background: #00C9E0;
+
+
+
+
+}
+
+.hero-container_next-btn a{
+    position: absolute;
+    font-family: Larsseit;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 27px;
+    letter-spacing: 0.15em;
+text-decoration: none;    
+    left: 35px;
+    color: #ffffff;
+    top: 20px;
+    }
+
+
+    .hero-container_next-btn:hover{
+        transform: translateY(2px);
+        transition: 0.1s;
+        box-shadow: 10px 10px 10px rgb(255, 0, 0);
+        }
+
+
+        .hero-container_next-navbar li{
+            display: inline-block;
+        margin-right: 20px;
+        }
+        
+        .hero-container_next-navbar img{
+            width: 24px;
+            height: 24px;
+                position:relative;
+        
+        }
+        
+        .hero-container_next-navbar{
+        position: absolute;
+        top: 950px;
+            left: 1380px;
+        
+        }
+
+
+
+    }
+
+
+
+
+
+
